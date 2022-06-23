@@ -12,6 +12,7 @@
 
 <!-- Contribuições-->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheusth16&theme=gotham&hide_border=true&area=true)
+![Snake animation](https://github.com/matheusth16/matheusth16/blob/output/github-contribution-grid-snake.svg)
 
 <!--  -->
 
