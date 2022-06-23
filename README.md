@@ -1,5 +1,5 @@
 <!-- Banner -->
-<align="center" img width="50%" heigth="500px" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/> 
+<img width="50%" heigth="500px" align="center" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/> 
 
 <!-- Letreiro  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Santos+de+Jesus+Costa;I'm+18+years+old;I+from+Brasil,+RJ;I+study+JavaScript+and+TypeScript+at+Udemy;Be+Welcome!+:%29)](https://git.io/typing-svg)
