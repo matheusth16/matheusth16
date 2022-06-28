@@ -22,7 +22,7 @@
 
 ## Meus contatos :iphone:
 <div align="center">  
-  <a href="https://www.instagram.com/thmatheus23_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-      badge&logo=instagram&logoColor=white"</a>
+
     
    <p align="center">
       <a href="https://github.com/teteusAraujo">
@@ -36,6 +36,9 @@
       <a href="https://www.linkedin.com/in/mateusaraujobarros">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
       </a>
+       <a href="https://www.instagram.com/thmatheus23_/" target="_blank">
+         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-      badge&logo=instagram&logoColor=white"
+       </a>
   </p>
 </div>
  
