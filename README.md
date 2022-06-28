@@ -12,7 +12,18 @@
 
 <!-- Contribuições-->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheusth16&theme=gotham&hide_border=true&area=true)
-![Snake animation](https://github.com/matheusth16/matheusth16/blob/output/github-contribution-grid-snake.svg)
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/matheusth16/matheusth16/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 
 <!--  -->
 
@@ -20,27 +31,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=matheusth16&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## Meus contatos :iphone:
-<div align="center">  
+## Meus contatos:
 
-    
-   <p align="center">
-      <a href="https://github.com/teteusAraujo">
-          <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="mailto:mateusaraujo996@gmail.com">
-          <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/mateusaraujobarros">
-          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
-      </a>
-       <a href="https://www.instagram.com/thmatheus23_/" target="_blank">
-         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-      badge&logo=instagram&logoColor=white"
-       </a>
-  </p>
-</div>
  
 <!-- Conhecimentos -->
 ### Main skills:
