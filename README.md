@@ -12,7 +12,8 @@
   <a href = "mailto:thmatheus200323@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/matheussantos23/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-    
+ 
+<!-- Tecnologias  -->
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
@@ -26,6 +27,13 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
+  
+  <!-- Recompensas -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheusth16&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+ 
+  
 <!-- Mais usados -->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusth16&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -35,19 +43,7 @@
 
 <!-- Contribuições-->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheusth16&theme=gotham&hide_border=true&area=true)
-![Snake animation](https://github.com/matheusth16/matheusth16/blob/output/github-contribution-grid-snake.svg)
 
-
-<!--  -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheusth16&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
- 
-<!-- Conhecimentos -->
-
-
- <img width="100%"   src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>  
  
 <!-- Contador de visitas -->
 <div align="center">
