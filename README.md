@@ -47,7 +47,7 @@
  
 <!-- Contador de visitas -->
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="centre"><b>Contador de Visitas</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusth16}/count.svg"/></p> 
 </div>
  
