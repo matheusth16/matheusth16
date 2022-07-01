@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <!-- Letreiro  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Santos+de+Jesus+Costa;I'm+18+years+old;I+from+Brasil,+RJ;I+study+JavaScript+and+TypeScript+at+Udemy;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Santos+de+Jesus+Costa;I'm+18+years+old;I+from+Brasil,+RJ;I+study+JavaScript+and+TypeScript;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- Contatos -->
 <div align="center"> 
@@ -48,7 +48,7 @@
 <!-- Contador de visitas -->
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusth16}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheusth16}/count.svg"/></p> 
 </div>
  
 
