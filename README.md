@@ -46,7 +46,7 @@
   
 
 <!-- Contribuições-->
-![Contribution](https://activity-graph.herokuapp.com/graph?username=matheusth16&theme=gotham&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheusth16&theme=gotham&hide_border=true&area=true) -->
 
  
 <!-- Contador de visitas -->
