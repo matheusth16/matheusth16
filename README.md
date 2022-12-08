@@ -39,14 +39,14 @@
 
   
   <!-- Recompensas -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=matheusth16&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-   -->
+  
   
 
 <!-- Contribuições-->
-![Contribution](https://activity-graph.herokuapp.com/graph?username=matheusth16&theme=gotham&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=matheusth16&theme=gotham&hide_border=true&area=true) -->
 
  
 <!-- Contador de visitas -->
